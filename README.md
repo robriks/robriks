@@ -16,7 +16,7 @@
   </div>
   <div align="right" style="display:flex; flex-direction:column; align-items:flex-start;">
     <a href="https://www.youtube.com/channel/UCSui8NPYbrK4w89G04jwg0g" target="blank">
-      <img align="right" src="assets/2023_03_10_NSO_Basilica_0126.jpg" alt="me playing mozart" height="250" />
+      <img align="right" src="assets/2023_03_10_NSO_Basilica_0126.jpg" alt="me playing mozart" height="175" />
     </a>
   </div>
 </div>
