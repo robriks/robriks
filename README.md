@@ -20,19 +20,19 @@
   </div>
 </div>
 <hr>
-<div style="padding-top: 20px;">
+<div style="padding-top: 20px; padding-bottom: 20px; padding-left: 15px;">
     <a href="https://github.com/ryo-ma/github-profile-trophy" target="blank">
     <img align="top" src="https://github-profile-trophy.vercel.app/?username=robriks&title=MultiLanguage,PullRequest,Repositories,Commits" alt="trophies" height="90" />
     </a> 
 </div>
 <ul style="padding-top: 30px;">
-  <li> 🔭 I’m currently working on [GroupOS and 0xRails Protocol](https://github.com/0xStation/0xrails) </li>
+  <li> 🔭 Currently working on <a href="https://github.com/0xStation/0xrails">GroupOS and 0xRails Protocol</a> </li>
   <br>
   <li>📝 I write articles on smart contract hacking and host them on the Optimism blockchain: <a href="https://mirror.xyz/%F0%9F%93%AF%F0%9F%93%AF%F0%9F%93%AF.eth">mirror.xyz/📯📯📯.eth</a></li>
   <br>
   <li> 💬 Ask me anything about **Solidity, wrangling the EVM, music theory, or classical orchestral repertoire** </li>
   <br>
-  <li> 📫 How to reach me via email: **markus@station.express** </li>
+  <li> 📫 Check out <a href="https://horn.technology">my website</a> and feel free to reach out via email: <a href="https://horn.technology">markus@station.express</a> </li>
 </ul>
 <div align="center" style="padding-top: 20px;"> 
   <div style="padding-bottom: 20px;">
