@@ -27,13 +27,13 @@
 </div>
 <br>
 <ul style="padding-top: 30px;">
-  <li> 🔭 Currently working on <a href="https://github.com/0xStation/0xrails">GroupOS and 0xRails Protocol</a> </li>
+  <li> 🔭 Currently working on <a href="https://github.com/robriks/nouns-prop-lot">permissionlessly and noncustodially extending Nouns Governance with PropLot Protocol</a> as well as <a href="https://github.com/0xStation/0xrails-core">Station Labs' GroupOS and 0xRails Protocol</a> </li>
   <br>
   <li>📝 I write articles on smart contract hacking and host them on the Optimism blockchain: <a href="https://mirror.xyz/%F0%9F%93%AF%F0%9F%93%AF%F0%9F%93%AF.eth">mirror.xyz/📯📯📯.eth</a></li>
   <br>
   <li> 💬 Ask me anything about <b>Solidity, wrangling the EVM, music theory, or classical orchestral repertoire</b> </li>
   <br>
-  <li> 📫 Check out <a href="https://horn.technology">my website</a> and feel free to reach out via email: <a href="https://horn.technology">markus@station.express</a> </li>
+  <li> 📫 Check out <a href="https://hax.box">my website hax.box</a> and feel free to reach out via email: <a href="https://horn.technology">markus@station.express</a> </li>
 </ul>
 <div align="center" style="padding-top: 20px;"> 
   <div style="padding-bottom: 20px;">
