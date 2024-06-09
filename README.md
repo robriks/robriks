@@ -37,7 +37,7 @@
   <br>
   <li> 💬 Ask me anything about <b>Solidity, wrangling the EVM, music theory, or classical orchestral repertoire</b> </li>
   <br>
-  <li> 📫 Check out <a href="https://hax.box">my website hax.box</a> and feel free to reach out via email: <a href="https://horn.technology">unihornist@protonmail.com</a> </li>
+  <li> 📫 Check out my website<a href="https://hax.box">hax.box</a> and feel free to reach out via email: <a href="https://horn.technology">unihornist@protonmail.com</a> </li>
 </ul>
 <div align="center" style="padding-top: 20px;"> 
   <div style="padding-bottom: 20px;">
