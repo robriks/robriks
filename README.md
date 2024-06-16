@@ -31,7 +31,7 @@
 </div>
 <br>
 <ul style="padding-top: 30px;">
-  <li> 🔭 Currently working on <a href="https://github.com/robriks/nouns-prop-lot">permissionlessly and noncustodially extending Nouns Governance with PropLot Protocol</a> as well as <a href="https://github.com/0xStation/0xrails-core">Station Labs' GroupOS and 0xRails Protocol</a> </li>
+  <li> 🔭 Currently working on <a href="https://github.com/robriks/nouns-prop-lot">permissionlessly and noncustodially extending Nouns Governance via Wave Protocol</a> as well as <a href="https://github.com/0xStation/0xrails-core">Station Labs' GroupOS and 0xRails Protocol</a> </li>
   <br>
   <li>📝 I write articles on smart contract hacking and host them on the Optimism blockchain: <a href="https://mirror.xyz/%F0%9F%93%AF%F0%9F%93%AF%F0%9F%93%AF.eth">mirror.xyz/📯📯📯.eth</a></li>
   <br>
