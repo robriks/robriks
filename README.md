@@ -35,9 +35,10 @@
 </div>
 <br>
 <ul style="padding-top: 30px;">
-  <li> 🔭 Currently working on <a href="https://github.com/robriks/nouns-prop-lot">permissionlessly and noncustodially extending Nouns Governance via Wave Protocol</a> as well as <a href="https://github.com/0xStation/0xrails-core">Station Labs' GroupOS and 0xRails Protocol</a> </li>
+  <li> Currently working on Telcoin Network, a new EVM L1 built with Reth, focusing on cross-chain interop which will bring the Telcoin ERC20 token from mainnet Ethereum to serve as Telcoin Network's native token via Axelar's Amplifier bridging solution! </li>
+  <li> 🔭 Previous work includes <a href="https://github.com/robriks/nouns-prop-lot">permissionlessly and noncustodially extending Nouns Governance via Wave Protocol</a> as well as <a href="https://github.com/0xStation/0xrails-core">Station Labs' GroupOS and 0xRails Protocol</a> </li>
   <br>
-  <li>📝 I write articles on smart contract hacking and host them on the Optimism blockchain: <a href="https://mirror.xyz/%F0%9F%93%AF%F0%9F%93%AF%F0%9F%93%AF.eth">mirror.xyz/📯📯📯.eth</a></li>
+  <li> 📝 I write articles on smart contract hacking and host them on the Optimism blockchain: <a href="https://mirror.xyz/%F0%9F%93%AF%F0%9F%93%AF%F0%9F%93%AF.eth">mirror.xyz/📯📯📯.eth</a></li>
   <br>
   <li> 💬 Ask me anything about <b>Solidity, wrangling the EVM, music theory, or classical orchestral repertoire</b> </li>
   <br>
