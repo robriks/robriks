@@ -11,13 +11,17 @@
 <div style="display:flex; align-items:center; justify-content: space-between; padding-top: 10px;">
   <div style="width: 100%;">
     <div>
+      <h3 align="center" style="white-space: nowrap">
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" style="border-radius: 50%;" src="https://github.com/robriks/robriks/blob/main/assets/telcoin-logo.png" alt="telcoin" height="50"/>
+        &nbsp;&nbsp;&nbsp;Solidity & Rust @ <a href="https://telcoin.org">Telcoin Association&nbsp;&nbsp;</a>
+        </h3>
         <h3 align="center" style="white-space: nowrap">
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" style="border-radius: 50%;" src="https://github.com/robriks/robriks/blob/main/assets/wave.svg?raw=true" alt="wave" height="50"/>
-        &nbsp;&nbsp;&nbsp;Protocol Lead @ <a href="https://github.com/robriks/nouns-wave-protocol">Wave Protocol&nbsp;&nbsp;</a>
+        &nbsp;&nbsp;&nbsp;Prev. Protocol Lead @ <a href="https://github.com/robriks/nouns-wave-protocol">Wave Protocol&nbsp;&nbsp;</a>
         </h3>
         <h3 align="center" style="white-space: nowrap">
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" style="border-radius: 50%;" src="https://github.com/robriks/robriks/assets/80549215/5c39788b-2649-4888-b836-a105481e067e" alt="kweenbirb" height="50"/>
-        &nbsp;&nbsp;&nbsp;Previously Smart Contract Engineer @ <a href="https://station.express">Station.Express&nbsp;&nbsp;</a>
+        &nbsp;&nbsp;&nbsp;Prev. Smart Contract Engineer @ <a href="https://station.express">Station.Express&nbsp;&nbsp;</a>
         </h3>
         <h3 align="center" style="white-space: nowrap">📯📯📯 Hornist @ <a href="https://www.kennedy-center.org/artists/o/oo-oz/markus-osterlund/">National Symphony Orchestra&nbsp;&nbsp;</a><h3>
     </div>
