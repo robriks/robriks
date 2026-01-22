@@ -13,7 +13,7 @@
     <div>
       <h3 align="center" style="white-space: nowrap">
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" style="border-radius: 50%;" src="https://github.com/robriks/robriks/blob/main/assets/telcoin-logo.png" alt="telcoin" height="50"/>
-        &nbsp;&nbsp;&nbsp;Solidity & Rust @ <a href="https://telcoin.org">Telcoin Association&nbsp;&nbsp;</a>
+        &nbsp;&nbsp;&nbsp;Prev. Solidity & Rust @ <a href="https://telcoin.org">Telcoin&nbsp;&nbsp;</a>
         </h3>
         <h3 align="center" style="white-space: nowrap">
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" style="border-radius: 50%;" src="https://github.com/robriks/robriks/blob/main/assets/wave.svg?raw=true" alt="wave" height="50"/>
